@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap');
+h1{
+text-align: center;
+color: blue;
+text-decoration: underline;
+}
+.one {
+ font-family: "Crafty Girls", cursive;;
+}
+.two {
+    font-family: "Limelight", sans-serif;
+}
+.three {
+    font-weight: 800;
+}
