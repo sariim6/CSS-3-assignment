@@ -13,4 +13,9 @@ text-decoration: underline;
 }
 .three {
     font-weight: 800;
+    text-shadow: 2px 2px 4px;
+}
+a{
+    color: forestgreen;
+    text-decoration: none;
 }
